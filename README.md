@@ -1,1 +1,1 @@
-# de_capstone
+# Data Pipeline Capstone Project
